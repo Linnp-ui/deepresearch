@@ -1,0 +1,278 @@
+{
+  "notes": [
+    {
+      "id": "note_20260319_173753_0",
+      "title": "任务 1: 技术发展脉络",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-19T17:37:53.364545"
+    },
+    {
+      "id": "note_20260319_173753_1",
+      "title": "任务 2: 主要成就案例",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-19T17:37:53.366186"
+    },
+    {
+      "id": "note_20260319_173753_2",
+      "title": "任务 3: 国际地位变化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-19T17:37:53.370897"
+    },
+    {
+      "id": "note_20260319_173753_3",
+      "title": "任务 4: 未来趋势预测",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-03-19T17:37:53.372430"
+    },
+    {
+      "id": "note_20260319_173900_4",
+      "title": "研究报告：中国超级计算机在25年的突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-03-19T17:39:00.020160"
+    },
+    {
+      "id": "note_20260319_174444_5",
+      "title": "任务 1: 超级计算机发展历程",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-19T17:44:44.402849"
+    },
+    {
+      "id": "note_20260319_174444_6",
+      "title": "任务 2: 关键技术突破",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-19T17:44:44.404409"
+    },
+    {
+      "id": "note_20260319_174444_7",
+      "title": "任务 3: 国际排名变化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-19T17:44:44.405970"
+    },
+    {
+      "id": "note_20260319_174444_8",
+      "title": "任务 4: 应用领域扩展",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-03-19T17:44:44.405970"
+    },
+    {
+      "id": "note_20260319_174555_9",
+      "title": "研究报告：中国超级计算机在25年的突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-03-19T17:45:55.460279"
+    },
+    {
+      "id": "note_20260319_175025_10",
+      "title": "任务 1: 技术发展轨迹",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-19T17:50:25.866037"
+    },
+    {
+      "id": "note_20260319_175025_11",
+      "title": "任务 2: 国际地位变化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-19T17:50:25.871081"
+    },
+    {
+      "id": "note_20260319_175025_12",
+      "title": "任务 3: 应用领域扩展",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-19T17:50:25.874217"
+    },
+    {
+      "id": "note_20260319_175135_13",
+      "title": "研究报告：中国超级计算机在25年的突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-03-19T17:51:35.410399"
+    },
+    {
+      "id": "note_20260319_180452_14",
+      "title": "任务 1: 技术发展路径",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-19T18:04:52.479143"
+    },
+    {
+      "id": "note_20260319_180452_15",
+      "title": "任务 2: 全球排名变化",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-19T18:04:52.480148"
+    },
+    {
+      "id": "note_20260319_180452_16",
+      "title": "任务 3: 应用领域扩展",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-19T18:04:52.482083"
+    },
+    {
+      "id": "note_20260319_180551_17",
+      "title": "研究报告：中国超级计算机在25年的突破",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-03-19T18:05:51.561497"
+    },
+    {
+      "id": "note_20260319_180754_18",
+      "title": "任务 1: 背景梳理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-19T18:07:54.524619"
+    },
+    {
+      "id": "note_20260319_180754_19",
+      "title": "任务 2: 技术突破分析",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-19T18:07:54.526180"
+    },
+    {
+      "id": "note_20260319_180754_20",
+      "title": "任务 3: 应用领域探索",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-19T18:07:54.527697"
+    },
+    {
+      "id": "note_20260319_180754_21",
+      "title": "任务 4: 国际地位评估",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_4"
+      ],
+      "created_at": "2026-03-19T18:07:54.527697"
+    },
+    {
+      "id": "note_20260320_141449_22",
+      "title": "任务 1: 基础背景梳理",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-20T14:14:49.816405"
+    },
+    {
+      "id": "note_20260320_141702_23",
+      "title": "研究报告：测试研究主题",
+      "type": "conclusion",
+      "tags": [
+        "deep_research",
+        "report"
+      ],
+      "created_at": "2026-03-20T14:17:02.927597"
+    },
+    {
+      "id": "note_20260321_161543_24",
+      "title": "任务 1: AI在医疗诊断中的应用",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_1"
+      ],
+      "created_at": "2026-03-21T16:15:43.605332"
+    },
+    {
+      "id": "note_20260321_161543_25",
+      "title": "任务 2: AI辅助个性化治疗方案",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_2"
+      ],
+      "created_at": "2026-03-21T16:15:43.606850"
+    },
+    {
+      "id": "note_20260321_161543_26",
+      "title": "任务 3: AI于医疗数据管理的作用",
+      "type": "task_state",
+      "tags": [
+        "deep_research",
+        "task_3"
+      ],
+      "created_at": "2026-03-21T16:15:43.608369"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-03-19T17:30:51.200128",
+    "total_notes": 27
+  }
+}
